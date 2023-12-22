@@ -1,0 +1,20 @@
+{expense.name},{expense.amount},{expense}
+{expense.name}, {expense.amount}, {expense.category}
+{expense.name}, {expense.amount}, {expense.category}
+{expense.name}, {expense.amount}, {expense.category}
+{expense.name}, {expense.amount}, {expense.category}
+{expense.name}, {expense.amount}, {expense.category}
+{.name}, {.amount}, {.category}
+{.name}, {.amount}, {.category}
+{expense.name}, {expense.amount}, {expense.category}
+{expense.name}, {expense.amount}, {expense.category}
+abc, 20, 🍔food
+abc , 30, 🍔food
+abc,  20, 🍔food
+sandwich, 30, 🍔food
+electricity, 900, 🏠home
+waterpark, 800, 🎉fun
+abc , 40, 🍔food
+dahi, 20, 🍔food
+abc, 20, 🏢work
+abc , 20, 🏢work
